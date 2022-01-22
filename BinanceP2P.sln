@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinanceP2P", "BinanceP2P\BinanceP2P.csproj", "{931E5AFE-844A-4667-969B-94F8B3F281DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{931E5AFE-844A-4667-969B-94F8B3F281DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{931E5AFE-844A-4667-969B-94F8B3F281DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{931E5AFE-844A-4667-969B-94F8B3F281DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{931E5AFE-844A-4667-969B-94F8B3F281DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
